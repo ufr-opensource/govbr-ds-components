@@ -20,7 +20,6 @@ export default defineConfig({
         rollupOptions: {
             external: ['react', 'react-dom'],
             output: {
-                manualChunks: undefined,
                 globals: {
                     react: 'React',
                     'react-dom': 'ReactDOM',
