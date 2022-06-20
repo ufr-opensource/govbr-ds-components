@@ -1,4 +1,7 @@
-# govbr-ds-react-components
+# GOVBR DS React Components
+Componentes do [Design System do Governo Federal](https://www.gov.br/ds/home) adaptados para React e React Native.
+
+**! Em desenvolvimento inicial !**
 
 ## Desenvolvimento
 
