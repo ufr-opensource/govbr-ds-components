@@ -49,3 +49,9 @@ Componentes do [Design System do Governo Federal](https://www.gov.br/ds/home) ad
 - [ ] Upload
 - [ ] Wizard
 </details>
+
+<details>
+  <summary>Componentes extras, com possíveis recursos extras.</summary>
+
+- [ ] TextEditor (WYSIWYG, Utilizando [tiptap](https://tiptap.dev/))
+</details>
