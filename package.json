@@ -1,7 +1,7 @@
 {
-  "name": "govbr-ds-react-components",
+  "name": "govbr-ds-components",
   "version": "alpha",
-  "description": "Componentes do Design System do Governo Federal para o React",
+  "description": "Componentes do Design System do Governo Federal",
   "author": "José M Morais Junior <josemjunior17@gmail.com>",
   "scripts": {
     "dev": "vite",

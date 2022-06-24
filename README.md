@@ -1,5 +1,5 @@
 # GOVBR DS React Components
-Componentes do [Design System do Governo Federal](https://www.gov.br/ds/home) adaptados para React e React Native.
+Componentes do [Design System do Governo Federal](https://www.gov.br/ds/home) adaptados para React.
 
 **! Em desenvolvimento inicial !**
 
@@ -9,6 +9,9 @@ Componentes do [Design System do Governo Federal](https://www.gov.br/ds/home) ad
 - Rode `yarn storybook` para começar a desenvolver
 
 ## Roadmap
+
+O objetivo desse projeto é criar e manter atualizado uma biblioteca de componentes para frameworks js populares. \
+Inicialmente para React, pode ser extensível para outros frameworks.
 
 <details>
   <summary>Desenvolvimento dos componentes em React para web, com variantes.</summary>
