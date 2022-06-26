@@ -1,10 +1,10 @@
 import React from 'react';
 import type { ComponentStory, ComponentMeta } from '@storybook/react';
 import { Wrapper } from '../../../Wrapper';
-import { IconButton } from '../../../components/button/IconButton';
+import { IconButton } from '../../../components/button';
 
 export default {
-    title: 'Componentes/Botão com Icone',
+    title: 'Componentes/Botão/Com Ícone',
     component: IconButton,
     argTypes: {
         children: {
