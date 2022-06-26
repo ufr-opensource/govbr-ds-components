@@ -7,7 +7,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
+    "build-storybook": "build-storybook --docs --no-manager-cache --disable-telemetry --output-dir ./docs",
     "lint": "eslint {**/*,*}.{js,ts,jsx,tsx,html} --fix"
   },
   "dependencies": {
