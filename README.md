@@ -1,8 +1,6 @@
 # GOVBR DS React Components
 Componentes do [Design System do Governo Federal](https://www.gov.br/ds/home) adaptados para React.
 
-[![pages-build-deployment](https://github.com/ufr-opensource/govbr-ds-components/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/ufr-opensource/govbr-ds-components/actions/workflows/pages/pages-build-deployment)
-
 **! Em desenvolvimento inicial !**
 
 ## Desenvolvimento
