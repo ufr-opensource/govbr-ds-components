@@ -57,4 +57,5 @@ Inicialmente para React, pode ser extensível para outros frameworks.
   <summary>Componentes extras, com possíveis recursos extras.</summary>
 
 - [ ] TextEditor (WYSIWYG, Utilizando [tiptap](https://tiptap.dev/))
+- [ ] Formulário com fieldset, legend, e possíveis helpers
 </details>
